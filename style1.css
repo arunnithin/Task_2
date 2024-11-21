@@ -1,0 +1,98 @@
+h1
+{
+    padding-bottom: 30px;
+    font-size: 60px;
+    font-family:cursive;
+    color: white;
+    background-size: cover;
+    background-color: black;
+    height: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+    text-shadow: 2px 2px 10px black;
+}
+body
+{
+    text-align: center;
+    padding-top: 90px;
+    background-image: url() ;
+    margin-top: 10px;
+    margin-right: 60px;
+}
+.display
+{
+    font-size: xx-large;
+    color: #000000;
+    height: 70px;
+    width: 420px;
+    border: 2px; #ffffff solid;
+    border-radius: 30px;
+    background-color: white;
+}
+#bts
+{
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+    height: 60px;
+    width: 100px;
+    border:black solid;
+    border-radius: 200px;
+    background-color: white;
+    color: black;
+}
+#bts:hover
+{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
+#bts1
+{
+    background-color: black;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    height: 60px;
+    width: 100px;
+    border: white solid;
+    border-radius: 200px;
+}
+#bts1:hover
+{
+    background-color:white;
+    color:black;
+    transition: 0.5s;
+}
+.calci
+{
+    align-items: center;
+    background-color: grey;
+    border: 4px; #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 480px;
+    border-radius:20px;
+    text-align: center;
+} 
+#but1
+{
+    padding-top: 20px;
+}
+#but2
+{
+    padding-top: 5px;
+}
+#but3
+{
+    padding-top: 5px;
+}
+#but4
+{
+    padding-top: 5px;
+}
+#but5
+{
+    padding-top: 5px;
+}
